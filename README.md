@@ -2,11 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-mendes-de-souza-a251981a2/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloMendees) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulomeendess/)
 
-![paulomeendess GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomeendess&show_icons=true&theme=radical)
+![paulomeendess GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMendees&show_icons=true&theme=radical)
 
 ## Tecnologias do meu dia-dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomeendess&layout=compact)](https://www.instagram.com/paulomeendess/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMendees&layout=compact)](https://github.com/PauloMendees)
 
 <div style="display: inline_block"> <br/>
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
