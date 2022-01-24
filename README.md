@@ -4,7 +4,7 @@
 
 ![paulomeendess GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMendees&show_icons=true&theme=radical)
 
-## Tecnologias do meu dia-dia
+## My stacks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMendees&layout=compact)](https://github.com/PauloMendees)
 
